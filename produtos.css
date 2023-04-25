@@ -7,10 +7,10 @@ nav li{
 }
 nav a {
     text-transform: uppercase;
-    color: #aaaaaa;
-font-weight: bold;
-font-size: 22px;  
-text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;  
+    text-decoration: none;
 }
 
 
